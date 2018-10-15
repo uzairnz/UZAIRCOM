@@ -17,11 +17,11 @@
                 </div>
             </div>
             <div class="box-body">
-                Start creating your amazing application!
+                Hi, UZAIR Welcome to your Dashboard!
             </div>
             <!-- /.box-body -->
             <div class="box-footer">
-                Footer
+                Footer will come here __>
             </div>
             <!-- /.box-footer-->
         </div>
