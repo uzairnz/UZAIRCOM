@@ -1,26 +1,9 @@
-[![Build Status](https://travis-ci.org/Laracommerce/laracom.svg?branch=master)](https://travis-ci.org/Laracommerce/laracom)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Laracommerce/laracom/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Laracommerce/laracom/?branch=master)
-[![Code Intelligence Status](https://scrutinizer-ci.com/g/Laracommerce/laracom/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
-[![Test Coverage](https://img.shields.io/codecov/c/github/Laracommerce/laracom/master.svg)](https://codecov.io/github/Laracommerce/laracom?branch=master)
 
-[![Fork Status](https://img.shields.io/github/forks/Laracommerce/laracom.svg)](https://github.com/Laracommerce/laracom)
-[![Star Status](https://img.shields.io/github/stars/Laracommerce/laracom.svg)](https://github.com/Laracommerce/laracom)
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/larac0m/Lobby)
-
-# Laravel FREE E-Commerce Software
+# UZAIR's Laravel E-Commerce Software
 ## Test-driven development (TDD) made app
 
 #### Framework Used : Laravel 5.6
 
-[Website](https://laracom.net/)
-
-[Installation](https://github.com/jsdecena/laracom/wiki/Installation)
-
-[Admin Screenshots](https://github.com/jsdecena/laracom/wiki/Admin-Features)
-
-[Shop Screenshots](https://github.com/jsdecena/laracom/wiki/Frontend-Features)
-
-[Demo](https://shop.laracom.net)
 
 #### Features
 
@@ -77,9 +60,3 @@
 
 - Then: `npm run dev` for dev environment and `npm run production` for live. Wait for it to be compiled and refresh the page. 
 
-## Support open source
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=jeff.decena@yahoo.com&item_name=Laracom%20E-Commerce%20development&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHostedGuest)
-
-# Author
-
-[Jeff Simons Decena](https://jsdecena.me)
